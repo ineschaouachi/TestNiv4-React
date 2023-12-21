@@ -1,0 +1,41 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "firstName": "aeda",
+      "lastName": "ad",
+      "email": "ines.chaouachi@esprit.tn",
+      "password": "123"
+    },
+    {
+      "id": 2,
+      "firstName": "s",
+      "lastName": "s",
+      "email": "samia.nefzaoui@cnci.tn",
+      "password": "0000"
+    },
+    {
+      "firstName": "Ines",
+      "lastName": "CHAOUACHI",
+      "email": "ines.chaouachi@esprit.tn",
+      "password": "1234567",
+      "id": 3
+    },
+    {
+      "firstName": "Aymen",
+      "lastName": "BOUAZRA",
+      "email": "test@gmail.com",
+      "password": "123",
+      "id": 4
+    }
+  ],
+  "product": [
+    {
+      "name": "Huawei",
+      "description": "Y7 Prime",
+      "price": "525",
+      "quantity": "20",
+      "id": 5
+    }
+  ]
+}
